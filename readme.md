@@ -196,7 +196,7 @@ Your output should be a single char either `R` or `B` which your point p has bee
 ---
 To submit your solution to Gradescope, simply select the files you wish to submit and use the "drag and drop" option.  Name your files `main_q.cpp`, `main_q.py`, or `main_q.java` where `q` is the question number you are solving. Your programs will be automatically graded. For each of the questions you either pass the test cases (full points) or not (zero points).
 
-For example, to submit a solution to question one in the CSC 212-Self Assessment the file you would submit would named:
+For example, to submit a solution to question#01 in the CSC 212-Self Assessment, the file you would need to submit should be named:
 
 * `main_1.cpp` for C++
 * `main_1.java` for Java
