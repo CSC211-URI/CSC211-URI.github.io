@@ -1,6 +1,6 @@
 ## CSC 212 Self-Assessment
 
-This CSC 212 Self-Assessment, you are welcome to submit programs in Python, Java, or C++ that solve any of the below programming challanges.
+For this CSC 212 Self-Assessment, you are welcome to submit solutions in Python, Java, or C++ that solve any of the below programming challanges.
 
 
 ### Format details
@@ -9,7 +9,7 @@ Your submission will be tested and graded by an autograder, for this reason it c
 
 For each problem you will create a program, you are free to design your own helper functions in order to implement your solution.
 
-> For each question, you will need read in input and print out output in accordance to the output specification for each question. Any print statements other than the expected output **must** be removed prior to submission. Pay special attention to formatting, such as number of whitespaces when printing more complex entities.
+> For each question, you will need read in input and print out output in accordance to the input/output specification for each question. Any print statements other than the expected output **must** be removed prior to submission. Pay special attention to formatting, such as number of whitespaces when printing more complex entities.
 
 For additional details on expected submission instructions, please refer to the **Submission and Grading** section at the bottom of the document.
 
