@@ -1,8 +1,7 @@
-## Homework Assignment 04
+## CSC 212 Self-Assessment
 
-This assignment is primarily focused on functions and multidimensional arrays. The assignment is worth a total of 120 points. If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
+This CSC 212 Self-Assessment, you are welcome to submit programs in Python, Java, or C++ that solve any of the below programming challanges.
 
-> If you need to post any of your actual source code on Piazza for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules.
 
 ### Format details
 ---
@@ -10,13 +9,12 @@ Your submission will be tested and graded by an autograder, for this reason it c
 
 For each problem you will create a program, you are free to design your own helper functions in order to implement your solution.
 
-> As in the last assignment, you will read input from `std::cin` and print output to `std::cout`. Any print (`cout`) statements other than the expected output **must** be removed prior to submission. Pay special attention to formatting, such as number of whitespaces when printing more complex entities.
+> For each question, you will need read in input and print out output in accordance to the output specification for each question. Any print statements other than the expected output **must** be removed prior to submission. Pay special attention to formatting, such as number of whitespaces when printing more complex entities.
 
 For additional details on expected submission instructions, please refer to the **Submission and Grading** section at the bottom of the document.
 
 ### Programs
 ---
-We discussed how to store a 2D array in class using a double pointer, however if you wish to explore different options, there are some other methods you may use for this assignment. The `std::vector` library for C++ is a very useful tool which is quite easy to learn and adapt to, there is documentation available online and your TAs can answer any questions you may have about it on Piazza. Alternatively, if you want to try something professional which makes matrices easy to pass to functions, you could try implementing a 2D array via a 1D array using row-major order. If you wish to attempt either of these, feel free to post any questions on the forum.
 
 #### 1. `sudoku_checker`
 ##### What is Sudoku?
@@ -196,6 +194,12 @@ Your output should be a single char either `R` or `B` which your point p has bee
 
 ### Submission and Grading
 ---
-To submit your solution to Gradescope, simply select the files you wish to submit and use the "drag and drop" option.  Name your files `main_q.cpp`, where `q` is the question number you are solving. Your programs will be automatically graded. For each of the questions you either pass the test cases (full points) or not (zero points).
+To submit your solution to Gradescope, simply select the files you wish to submit and use the "drag and drop" option.  Name your files `main_q.cpp`, `main_q.py`, or `main_q.java` where `q` is the question number you are solving. Your programs will be automatically graded. For each of the questions you either pass the test cases (full points) or not (zero points).
+
+For example, to submit a solution to question one in the CSC 212-Self Assessment the file you would submit would named:
+
+* `main_1.cpp` for C++
+* `main_1.java` for Java
+* `main_1.py` for Python
 
 > You must be reminded that students caught cheating or plagiarizing will receive `no credit`. Additional actions, including a failing grade in the class or referring the case for disciplinary action, may also be taken.
