@@ -202,4 +202,4 @@ For example, to submit a solution to question#01 in the CSC 212-Self Assessment,
 * `main_1.java` for Java
 * `main_1.py` for Python
 
-> You must be reminded that students caught cheating or plagiarizing will receive `no credit`. Additional actions, including a failing grade in the class or referring the case for disciplinary action, may also be taken.
+<!-- > You must be reminded that students caught cheating or plagiarizing will receive `no credit`. Additional actions, including a failing grade in the class or referring the case for disciplinary action, may also be taken. -->
